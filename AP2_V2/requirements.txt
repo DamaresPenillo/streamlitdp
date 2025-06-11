@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+missingno
+matplotlib
+seaborn
